@@ -1,0 +1,20 @@
+{
+  "name": "canvasdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "sass": "^1.63.4",
+    "sass-loader": "^13.3.2",
+    "typescript": "^5.1.3",
+    "webpack": "^5.86.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
