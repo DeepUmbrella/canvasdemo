@@ -1,0 +1,15 @@
+
+# ignore lib
+node_modules
+
+# ignore eidit file
+
+.vscode
+
+# ignore lock file
+
+.lock
+
+# ignore log file
+
+.log
