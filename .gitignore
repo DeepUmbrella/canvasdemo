@@ -5,6 +5,7 @@ node_modules
 # ignore eidit file
 
 .vscode
+.vs*
 
 # ignore lock file
 
